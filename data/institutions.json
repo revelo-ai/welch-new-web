@@ -1,0 +1,261 @@
+[
+  {
+    "name": "University of Texas at Austin",
+    "url_directory": "https://chemistry.utexas.edu/directory",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://chemistry.utexas.edu/",
+    "researcher_page": "researchers_ut_austin.html"
+  },
+  {
+    "name": "Texas A&M University",
+    "url_directory": "https://artsci.tamu.edu/chemistry/contact/profiles/index.html#All",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://artsci.tamu.edu/chemistry/index.html",
+    "researcher_page": "researchers_texas_am.html"
+  },
+  {
+    "name": "University of Houston",
+    "url_directory": "https://www.uh.edu/nsm/chemistry/people/faculty/",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.uh.edu/nsm/chemistry/index.php",
+    "researcher_page": "researchers_uh.html"
+  },
+  {
+    "name": "Rice University",
+    "url_directory": "https://chemistry.rice.edu/people/core-faculty",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://chemistry.rice.edu/",
+    "researcher_page": "researchers_rice.html"
+  },
+  {
+    "name": "Texas Christian University",
+    "url_directory": "https://cse.tcu.edu/chemistry/faculty-staff/index.php",
+    "department_name": "Department of Chemistry & Biochemistry",
+    "department_url": "https://cse.tcu.edu/chemistry/index.php",
+    "researcher_page": "researchers_tcu.html"
+  },
+  {
+    "name": "Baylor University",
+    "url_directory": "https://chemistry.artsandsciences.baylor.edu/faculty-and-staff/chemistry-faculty-directory",
+    "department_name": "Chemistry & Biochemistry",
+    "department_url": "https://chemistry.artsandsciences.baylor.edu",
+    "researcher_page": "researchers_baylor.html"
+  },
+  {
+    "name": "Texas Tech University",
+    "url_directory": "https://www.depts.ttu.edu/chemistry/Contacts/index.php",
+    "department_name": "Department of Chemistry & Biochemistry",
+    "department_url": "https://www.depts.ttu.edu/chemistry/",
+    "researcher_page": "researchers_texas_tech.html"
+  },
+  {
+    "name": "University of North Texas",
+    "url_directory": "https://chemistry.unt.edu/people/index.html?department=Faculty",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://chemistry.unt.edu/index.html",
+    "researcher_page": "researchers_unt.html"
+  },
+  {
+    "name": "University of Texas at Arlington",
+    "url_directory": "https://www.uta.edu/academics/schools-colleges/science/departments/chemistry/faculty",
+    "department_name": "Department of Chemistry and Biochemistry",
+    "department_url": "https://www.uta.edu/academics/schools-colleges/science/departments/chemistry",
+    "researcher_page": "researchers_ut_arlington.html"
+  },
+  {
+    "name": "The University of Texas at El Paso",
+    "url_directory": "https://www.utep.edu/science/chemistry/people/faculty.html",
+    "department_name": "Department of Chemistry and Biochemistry",
+    "department_url": "https://www.utep.edu/science/chemistry/",
+    "researcher_page": "researchers_ut_el_paso.html"
+  },
+  {
+    "name": "Texas State University",
+    "url_directory": "https://www.txst.edu/chemistry/about-the-department/faculty-profiles.html",
+    "department_name": "Department of Chemistry and Biochemistry",
+    "department_url": "https://www.txst.edu/chemistry.html",
+    "researcher_page": "researchers_texas_state.html"
+  },
+  {
+    "name": "Texas Lutheran University",
+    "url_directory": "https://www.tlu.edu/directory/category/faculty",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.tlu.edu",
+    "researcher_page": "researchers_tlu.html"
+  },
+  {
+    "name": "The University of Texas at San Antonio",
+    "url_directory": "https://sciences.utsa.edu/chemistry/faculty/#Chemistry-Faculty",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://sciences.utsa.edu/chemistry/",
+    "researcher_page": "researchers_ut_san_antonio.html"
+  },
+  {
+    "name": "The University of Texas at Dallas",
+    "url_directory": "https://chemistry.utdallas.edu/research-faculty/",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://chemistry.utdallas.edu/",
+    "researcher_page": "researchers_ut_dallas.html"
+  },
+  {
+    "name": "The University of Texas Permian Basin",
+    "url_directory": "https://www.utpb.edu/directory/academic-department/department-of-chemistry",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.utpb.edu/academics/colleges/coes/departments/chemistry/",
+    "researcher_page": "researchers_utpb.html"
+  },
+  {
+    "name": "Texas A&M University-Kingsville",
+    "url_directory": "https://www.tamuk.edu/artsci/departments/chem/faculty-staff/index.html",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.tamuk.edu/artsci/departments/chem/index.html",
+    "researcher_page": "researchers_tamuk.html"
+  },
+  {
+    "name": "The University of Texas Medical Branch at Galveston",
+    "url_directory": "https://www.utmb.edu/phtox/faculty-staff-students/faculty-directory/-in-category/categories/pharm-tox/chemical-biology-and-drug-discovery",
+    "department_name": "Chemical Biology and Drug Discovery",
+    "department_url": "https://www.utmb.edu/phtox",
+    "researcher_page": "researchers_utmb.html"
+  },
+  {
+    "name": "UTHealth Houston - Biochemistry & Molecular Biology",
+    "url_directory": "https://med.uth.edu/bmb/category/profile/",
+    "department_name": "Department of Biochemistry & Molecular Biology",
+    "department_url": "https://med.uth.edu/bmb/",
+    "researcher_page": "researchers_uth_biochemistry.html"
+  },
+  {
+    "name": "Southern Methodist University",
+    "url_directory": "https://www.smu.edu/dedman/academics/departments/chemistry/people",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.smu.edu/dedman/academics/departments/chemistry",
+    "researcher_page": "researchers_smu.html"
+  },
+  {
+    "name": "Texas A&M University-Texarkana",
+    "url_directory": "https://tamut.edu/academic-departments/natural-sciences/faculty.html",
+    "department_name": "Department of Natural Sciences",
+    "department_url": "https://tamut.edu/academic-departments/natural-sciences/index.html",
+    "researcher_page": "researchers_tamut.html"
+  },
+  {
+    "name": "Texas Woman’s University",
+    "url_directory": "https://twu.edu/chemistry-biochemistry/faculty-and-staff/",
+    "department_name": "Division of Chemistry and Biochemistry",
+    "department_url": "https://twu.edu/chemistry-biochemistry/",
+    "researcher_page": "researchers_twu.html"
+  },
+  {
+    "name": "Abilene Christian University",
+    "url_directory": "https://acu.edu/academics/science-engineering/chemistry-biochemistry/faculty",
+    "department_name": "Department of Chemistry and Biochemistry",
+    "department_url": "https://acu.edu/academics/science-engineering/chemistry-biochemistry/",
+    "researcher_page": "researchers_acu.html"
+  },
+  {
+    "name": "Hardin-Simmons University",
+    "url_directory": "https://www.hsutx.edu/faculty/?department=chemistry-and-physics",
+    "department_name": "Department of Chemistry & Physics",
+    "department_url": "https://www.hsutx.edu",
+    "researcher_page": "researchers_hsutx.html"
+  },
+  {
+    "name": "St. Mary’s University",
+    "url_directory": "https://www.stmarytx.edu/academics/department/chemistry/",
+    "department_name": "Department of Chemistry and Biochemistry",
+    "department_url": "https://www.stmarytx.edu/academics/department/chemistry/",
+    "researcher_page": "researchers_stmarytx.html"
+  },
+  {
+    "name": "University of Texas Rio Grande Valley",
+    "url_directory": "https://www.utrgv.edu/cos/schools-and-departments/integrative-biology-and-chemistry/bio-chem-faculty/index.htm",
+    "department_name": "School of Integrative Biology and Chemistry",
+    "department_url": "https://www.utrgv.edu/cos/schools-and-departments/integrative-biology-and-chemistry/",
+    "researcher_page": "researchers_utrgv.html"
+  },
+  {
+    "name": "East Texas A&M University",
+    "url_directory": "https://www.etamu.edu/chemistry/",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.etamu.edu/chemistry/",
+    "researcher_page": "researchers_etamu.html"
+  },
+  {
+    "name": "Prairie View A&M University",
+    "url_directory": "https://www.pvamu.edu/bcas/departments/chemistry/faculty-and-staff-2/",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.pvamu.edu/bcas/departments/chemistry/",
+    "researcher_page": "researchers_pvamu.html"
+  },
+  {
+    "name": "Texas A&M University-Commerce",
+    "url_directory": "https://inside.tamuc.edu/academics/colleges/scienceEngineeringAgriculture/departments/chemistry/facultyStaffNew/default.aspx",
+    "department_name": "Department of Chemistry",
+    "department_url": "",
+    "researcher_page": "researchers_tamuc.html"
+  },
+  {
+    "name": "Trinity University",
+    "url_directory": "https://www.trinity.edu/academics/departments/chemistry/contact-us",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.trinity.edu/academics/departments/chemistry",
+    "researcher_page": "researchers_trinity.html"
+  },
+  {
+    "name": "West Texas A&M University",
+    "url_directory": "https://www.wtamu.edu/academics/college-agriculture-natural-sciences/department-chemistry-physics/faculty/index.html",
+    "department_name": "Department of Chemistry & Physics",
+    "department_url": "https://www.wtamu.edu/academics/college-agriculture-natural-sciences/department-chemistry-physics/index.html",
+    "researcher_page": "researchers_wtamu.html"
+  },
+  {
+    "name": "Texas A&M International University",
+    "url_directory": "https://www.tamiu.edu/coas/biochem/facultystaff.shtml",
+    "department_name": "Department of Chemistry and Biochemistry",
+    "department_url": "https://www.tamiu.edu/coas/biochem/index.shtml",
+    "researcher_page": "researchers_tamiu.html"
+  },
+  {
+    "name": "University of Houston-Clear Lake",
+    "url_directory": "https://www.uhcl.edu/science-engineering/departments/physical-applied-sciences/chemistry/faculty-staff",
+    "department_name": "Department of Physical and Applied Sciences",
+    "department_url": "https://www.uhcl.edu/science-engineering/departments/physical-applied-sciences/",
+    "researcher_page": "researchers_uhcl.html"
+  },
+  {
+    "name": "Tarleton State University",
+    "url_directory": "https://www.tarleton.edu/chgp/faculty-staff/#chemistry",
+    "department_name": "Department of Chemistry, Geosciences, and Physics",
+    "department_url": "https://www.tarleton.edu/chgp/",
+    "researcher_page": "researchers_tarleton.html"
+  },
+  {
+    "name": "Midwestern State University",
+    "url_directory": "https://msutexas.edu/academics/scienceandmath/chemistry/faculty-staff.php",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://msutexas.edu/academics/scienceandmath/chemistry/",
+    "researcher_page": "researchers_msutexas.html"
+  },
+  {
+    "name": "University of Houston-Downtown",
+    "url_directory": "https://www.uhd.edu/academics/sciences/natural-sciences/directory.aspx",
+    "department_name": "Department of Natural Sciences",
+    "department_url": "https://www.uhd.edu/academics/sciences/natural-sciences/",
+    "researcher_page": "researchers_uhd.html"
+  },
+  {
+    "name": "University of St. Thomas",
+    "url_directory": "https://catalog.stthom.edu/faculty",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://catalog.stthom.edu/chemistry",
+    "researcher_page": "researchers_stthom.html"
+  },
+  {
+    "name": "Sam Houston State University",
+    "url_directory": "https://www.shsu.edu/academics/health-sciences/health-science-research.html",
+    "department_name": "Department of Chemistry",
+    "department_url": "https://www.shsu.edu/academics/chemistry/",
+    "researcher_page": "researchers_sam_houston.html"
+  }
+]
