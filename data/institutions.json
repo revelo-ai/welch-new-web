@@ -37,14 +37,14 @@
   {
     "name": "Baylor University",
     "url_directory": "https://chemistry.artsandsciences.baylor.edu/faculty-and-staff/chemistry-faculty-directory",
-    "department_name": "Chemistry & Biochemistry",
+    "department_name": "Department of Chemistry and Biochemistry",
     "department_url": "https://chemistry.artsandsciences.baylor.edu",
     "researcher_page": "researchers_baylor.html"
   },
   {
     "name": "Texas Tech University",
     "url_directory": "https://www.depts.ttu.edu/chemistry/Contacts/index.php",
-    "department_name": "Department of Chemistry & Biochemistry",
+    "department_name": "Department of Chemistry and Biochemistry",
     "department_url": "https://www.depts.ttu.edu/chemistry/",
     "researcher_page": "researchers_texas_tech.html"
   },
@@ -63,7 +63,7 @@
     "researcher_page": "researchers_ut_arlington.html"
   },
   {
-    "name": "The University of Texas at El Paso",
+    "name": "University of Texas at El Paso",
     "url_directory": "https://www.utep.edu/science/chemistry/people/faculty.html",
     "department_name": "Department of Chemistry and Biochemistry",
     "department_url": "https://www.utep.edu/science/chemistry/",
@@ -84,21 +84,21 @@
     "researcher_page": "researchers_tlu.html"
   },
   {
-    "name": "The University of Texas at San Antonio",
+    "name": "University of Texas at San Antonio",
     "url_directory": "https://sciences.utsa.edu/chemistry/faculty/#Chemistry-Faculty",
     "department_name": "Department of Chemistry",
     "department_url": "https://sciences.utsa.edu/chemistry/",
     "researcher_page": "researchers_ut_san_antonio.html"
   },
   {
-    "name": "The University of Texas at Dallas",
+    "name": "University of Texas at Dallas",
     "url_directory": "https://chemistry.utdallas.edu/research-faculty/",
     "department_name": "Department of Chemistry",
     "department_url": "https://chemistry.utdallas.edu/",
     "researcher_page": "researchers_ut_dallas.html"
   },
   {
-    "name": "The University of Texas Permian Basin",
+    "name": "University of Texas Permian Basin",
     "url_directory": "https://www.utpb.edu/directory/academic-department/department-of-chemistry",
     "department_name": "Department of Chemistry",
     "department_url": "https://www.utpb.edu/academics/colleges/coes/departments/chemistry/",
@@ -112,14 +112,14 @@
     "researcher_page": "researchers_tamuk.html"
   },
   {
-    "name": "The University of Texas Medical Branch at Galveston",
+    "name": "University of Texas Medical Branch at Galveston",
     "url_directory": "https://www.utmb.edu/phtox/faculty-staff-students/faculty-directory/-in-category/categories/pharm-tox/chemical-biology-and-drug-discovery",
     "department_name": "Chemical Biology and Drug Discovery",
     "department_url": "https://www.utmb.edu/phtox",
     "researcher_page": "researchers_utmb.html"
   },
   {
-    "name": "UTHealth Houston - Biochemistry & Molecular Biology",
+    "name": "University of Texas Health Science Center at Houston",
     "url_directory": "https://med.uth.edu/bmb/category/profile/",
     "department_name": "Department of Biochemistry & Molecular Biology",
     "department_url": "https://med.uth.edu/bmb/",
@@ -156,7 +156,7 @@
   {
     "name": "Hardin-Simmons University",
     "url_directory": "https://www.hsutx.edu/faculty/?department=chemistry-and-physics",
-    "department_name": "Department of Chemistry & Physics",
+    "department_name": "Department of Chemistry and Physics",
     "department_url": "https://www.hsutx.edu",
     "researcher_page": "researchers_hsutx.html"
   },
@@ -192,7 +192,7 @@
     "name": "Texas A&M University-Commerce",
     "url_directory": "https://inside.tamuc.edu/academics/colleges/scienceEngineeringAgriculture/departments/chemistry/facultyStaffNew/default.aspx",
     "department_name": "Department of Chemistry",
-    "department_url": "",
+    "department_url": "https://inside.tamuc.edu/academics/colleges/scienceEngineeringAgriculture/departments/chemistry/facultyStaffNew/default.aspx",
     "researcher_page": "researchers_tamuc.html"
   },
   {
@@ -205,7 +205,7 @@
   {
     "name": "West Texas A&M University",
     "url_directory": "https://www.wtamu.edu/academics/college-agriculture-natural-sciences/department-chemistry-physics/faculty/index.html",
-    "department_name": "Department of Chemistry & Physics",
+    "department_name": "Department of Chemistry and Physics",
     "department_url": "https://www.wtamu.edu/academics/college-agriculture-natural-sciences/department-chemistry-physics/index.html",
     "researcher_page": "researchers_wtamu.html"
   },
